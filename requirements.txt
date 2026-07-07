@@ -7,3 +7,6 @@ plotly
 PyPDF2
 reportlab
 pdfplumber
+groq
+python-dotenv
+google-generativeai
