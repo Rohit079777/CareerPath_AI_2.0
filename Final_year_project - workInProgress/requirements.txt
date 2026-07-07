@@ -1,7 +1,0 @@
-streamlit
-psycopg2-binary
-pyserial
-pandas
-scikit-learn
-plotly
-PyPDF2
